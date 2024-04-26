@@ -1,4 +1,4 @@
-![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/593c2d17-6337-4789-b1a8-f627be94c61a)# LATIHAN PRAKTIKUM 6 PEMROGRAMAN BERBASIS WEB 
+# LATIHAN PRAKTIKUM 6 PEMROGRAMAN BERBASIS WEB 
 
 ---
 
