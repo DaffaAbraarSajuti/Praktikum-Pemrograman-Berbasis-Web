@@ -1,8 +1,9 @@
 # LATIHAN PRAKTIKUM 6 PEMROGRAMAN BERBASIS WEB 
-
----
 ## Nama   : Daffa Abraar Sajuti 
 ## NPM    : 4522210040
+
+---
+
 
 ## LATIHAN 1 
 #### Source Code 
