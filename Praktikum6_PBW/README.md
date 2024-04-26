@@ -1,9 +1,10 @@
 # LATIHAN PRAKTIKUM 6 PEMROGRAMAN BERBASIS WEB 
 
 ---
+## Nama   : Daffa Abraar Sajuti 
+## NPM    : 4522210040
 
 ## LATIHAN 1 
-### Latihan1 
 #### Source Code 
 ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/a92269f3-ea39-40e1-aed5-05bc915a6e76)
 
@@ -25,11 +26,15 @@
 #### Hasil Running
 ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/cc7e944c-9e8e-4d5b-9b61-0ac342cb5d55)
 
+---
+
 ### Latihan 2.2 (Chmod)
 #### Source Code
 ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/7c2f9694-b017-4b55-9478-f60b3db70da8)
 #### Hasil Running
 ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/e5f2efdc-1b68-47af-b6ad-1603d2520584)
+
+---
 
 ### Latihan 2.3 (Path)
 #### Source Code
