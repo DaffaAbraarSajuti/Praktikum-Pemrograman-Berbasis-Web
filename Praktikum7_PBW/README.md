@@ -37,7 +37,7 @@
 
    #### Hasil Running (PUT)
    ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/bd90f81f-3769-4bb2-9631-4df46608a03f)
-Message "400 Bad Request" mengindikasikan bahwa ada kesalahan dalam sintaks atau struktur permintaan yang dikirim oleh pengguna, sehingga server tidak dapat memprosesnya.
+   ##### Message "400 Bad Request" mengindikasikan bahwa ada kesalahan dalam sintaks atau struktur permintaan yang dikirim oleh pengguna, sehingga server tidak dapat memprosesnya.
 
 -----
 
@@ -81,6 +81,7 @@ Message "400 Bad Request" mengindikasikan bahwa ada kesalahan dalam sintaks atau
 
    ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/5abeb7ce-0e81-4a87-86e1-17cf897a051d)
 
+-------
 
 
 
