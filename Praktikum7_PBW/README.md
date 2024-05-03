@@ -10,8 +10,8 @@
    - Metode parsing adalah proses penguraian (parsing) suatu teks atau kode dalam format tertentu menjadi struktur data yang dapat dimanipulasi.
      
 2. Source Code, Hasil Running
-   - Source Code
-     ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/bf384fbf-b6c2-4985-81ca-3f24e5ab06bc)
+   Source Code
+   ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/bf384fbf-b6c2-4985-81ca-3f24e5ab06bc)
 
    - Hasil Running
      ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/87ee64cb-2bd3-4eb7-9759-ab9154c9e0c5)
