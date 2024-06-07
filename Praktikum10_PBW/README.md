@@ -30,13 +30,13 @@
 
 ## 4. Menjalankan File main.go dan membuka postman
 ![image](https://github.com/DaffaAbraarSajuti/Praktikum-Pemrograman-Berbasis-Web/assets/148104478/f89a214a-0aed-46ae-b9df-1b8de2ce300e)
-![Screenshot 2024-06-07 160159](https://github.com/DaffaAbraarSajuti/Desain-Web/assets/148104478/a8b0498f-04c7-4ba2-a6ce-6d0bd06e381f)
+![Screenshot 2024-06-07 172246](https://github.com/DaffaAbraarSajuti/Desain-Web/assets/148104478/e7c407b7-42e3-4e2e-8111-a2a2db85784f)
 
 
 ---
 
 ## 5. Memasukkan title dengan body JSON dengan metode POST
-![Screenshot 2024-06-07 160159](https://github.com/DaffaAbraarSajuti/Desain-Web/assets/148104478/a8b0498f-04c7-4ba2-a6ce-6d0bd06e381f)
+![Screenshot 2024-06-07 172150](https://github.com/DaffaAbraarSajuti/Desain-Web/assets/148104478/19d1de6d-2b0b-49ba-9aff-f0f56baa1f88)
 
 ---
 
