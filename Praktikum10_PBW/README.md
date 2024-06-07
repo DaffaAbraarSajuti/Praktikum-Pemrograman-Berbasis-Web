@@ -13,10 +13,10 @@
 
 - ### GORILLA
   Gorilla adalah sekumpulan paket untuk digunakan untuk mempermudah pengembangan aplikasi web. Gorilla terdiri dari beberapa modul yang dapat digunakan secara terpisah atau bersama-sama untuk menangani berbagai aspek pengembangan web. Beberapa paket yang populer dalam Gorilla adalah:
-    1. Gorilla Mux: Sebuah router yang sangat populer dan kuat untuk menangani rute HTTP. Mux memungkinkan penanganan rute yang kompleks dan mendukung metode HTTP, variabel di URL, dan middleware.
-    2. Gorilla Sessions: Paket untuk mengelola sesi di aplikasi web. Ini memungkinkan penyimpanan data sesi di berbagai backend seperti cookie, file, memcached, dan database.
-    3. Gorilla WebSocket: Implementasi WebSocket yang digunakan untuk komunikasi dua arah antara server dan client.
-    4. Gorilla Context: Digunakan untuk menyimpan data kunci/ nilai selama request hidup. Ini berguna untuk berbagi data antara middleware dan handler.
+    - Gorilla Mux: Sebuah router yang sangat populer dan kuat untuk menangani rute HTTP. Mux memungkinkan penanganan rute yang kompleks dan mendukung metode HTTP, variabel di URL, dan middleware.
+    - Gorilla Sessions: Paket untuk mengelola sesi di aplikasi web. Ini memungkinkan penyimpanan data sesi di berbagai backend seperti cookie, file, memcached, dan database.
+    - Gorilla WebSocket: Implementasi WebSocket yang digunakan untuk komunikasi dua arah antara server dan client.
+    - Gorilla Context: Digunakan untuk menyimpan data kunci/ nilai selama request hidup. Ini berguna untuk berbagi data antara middleware dan handler.
 
  - ### UUID
    UUID (Universally Unique Identifier) adalah sebuah standar untuk pengidentifikasi unik yang dapat digunakan di berbagai sistem komputasi. Dalam bahasa Go (Golang), UUID sering digunakan untuk membuat pengidentifikasi unik yang tidak bergantung pada waktu, lokasi, atau sistem.
